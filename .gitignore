@@ -1,0 +1,10 @@
+syntax: glob # for hg-git users
+*.obj
+vcbuild/dist32
+vcbuild/dist64
+libmpdec/Makefile
+libmpdec/libmpdec*.dll*
+libmpdec/mpdecimal.h
+tests/Makefile
+tests/libmpdec*.dll
+tests/runtest.exe
